@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Poppins";
+    src: url(../hero_header_fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: "Poppins";
+    src: url(../hero_header_fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: "Poppins";
+    src: url(../hero_header_fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: "Poppins";
+    src: url(../hero_header_fonts/Poppins-Light.ttf);
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url(../hero_header_fonts/Poppins-ExtraBold.ttf);
+}
